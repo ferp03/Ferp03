@@ -1,6 +1,6 @@
 ## About me 
 - Hi! I'm Fernando Pérez and I'm a CS student at Tecnológico de Monterrey (ITESM) 📚
-- Incoming Software Engineer Intern at Oracle 👨‍💻
+- Software Engineer Intern at Oracle 👨‍💻
 - I own a basketball league -> LMBE ❗️
 - Currently working on a basketball league stats web page 🏀
 - I like testing code and looking for bugs 🪲
