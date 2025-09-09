@@ -3,7 +3,7 @@
 - Software Engineer Intern at Oracle 👨‍💻
 - I own a basketball league -> LMBE ❗️
 - And a Online Car Selling App -> autify.com.mx
-- Currently working on a basketball league stats web page 🏀
+- Currently working on Autify 🚗
 - I like testing code and looking for bugs 🪲
 - I like creating projects and working in team 🏋🏼‍♂️
 - I like playing basketball, listening to music and outdoors activities 🦌
