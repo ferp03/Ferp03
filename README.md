@@ -2,6 +2,7 @@
 - Hi! I'm Fernando Pérez and I'm a CS student at Tecnológico de Monterrey (ITESM) 📚
 - Software Engineer Intern at Oracle 👨‍💻
 - I own a basketball league -> LMBE ❗️
+- And a Online Car Selling App -> autify.com.mx
 - Currently working on a basketball league stats web page 🏀
 - I like testing code and looking for bugs 🪲
 - I like creating projects and working in team 🏋🏼‍♂️
